@@ -25,3 +25,9 @@ npm install react-router-dom
 ```sh
 npm install localforage match-sorter sort-by
 ```
+# Add tailwind CSS
+
+```sh
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
