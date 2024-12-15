@@ -43,3 +43,9 @@ npm i -D daisyui@latest
 ```sh
 npm i react-toastify
 ```
+
+# Add react icons
+
+```sh
+npm install react-icons --save
+```
