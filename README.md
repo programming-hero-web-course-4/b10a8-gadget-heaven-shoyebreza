@@ -31,3 +31,9 @@ npm install localforage match-sorter sort-by
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
+
+# Add daisyUI
+
+```sh
+npm i -D daisyui@latest
+```
