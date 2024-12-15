@@ -37,3 +37,9 @@ npx tailwindcss init -p
 ```sh
 npm i -D daisyui@latest
 ```
+
+# Add react toast
+
+```sh
+npm i react-toastify
+```
