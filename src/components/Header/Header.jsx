@@ -4,7 +4,7 @@ import { BsCart3 } from "react-icons/bs";
 import { IoIosHeartEmpty } from "react-icons/io";
 import { getOldCartData } from '../utilities/addingCart';
 import { getOldListData } from '../utilities/addingWishlist';
-const Nav = () => {
+const Header = () => {
 
     const [cart,setCart] = useState([])
     useEffect(()=>{
@@ -72,4 +72,4 @@ const Nav = () => {
     );
 };
 
-export default Nav;
+export default Header;
