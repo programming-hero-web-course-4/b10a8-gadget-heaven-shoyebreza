@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # Live  Link
 
-[Live link](https://gadget-heaven-shoyeb-a8.surge.sh/)
+[https://gadget-heaven-shoyeb-a8.surge.sh](https://gadget-heaven-shoyeb-a8.surge.sh/)
 
 # Create Repository
 
