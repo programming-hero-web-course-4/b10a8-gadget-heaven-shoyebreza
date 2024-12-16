@@ -1,6 +1,6 @@
 import Product from "../Product";
 import {useOutletContext } from 'react-router-dom';
-const Tablet = () => {
+const Tablets = () => {
     const data = useOutletContext();
     const products = data.filter(dat => dat.cat == 'Tablets')
     return (
@@ -14,4 +14,4 @@ const Tablet = () => {
     );
 };
 
-export default Tablet;
+export default Tablets;
