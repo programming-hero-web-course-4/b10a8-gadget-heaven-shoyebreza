@@ -23,7 +23,7 @@ const Header = () => {
                     <li><NavLink to={'/'}>Home</NavLink></li>
                     <li><NavLink to={'/statistics'}>Statistics</NavLink></li>
                     <li><NavLink to={'dashboard'}>Dashboard</NavLink></li>
-                    <li><NavLink to={'coupons'}>Coupons</NavLink></li>
+                    <li><NavLink to={'coupons'}>Get Offer</NavLink></li>
                   </>
     return (
         <div className={`navbar w-11/12 mx-auto ${location.pathname == '/' || location.pathname == '/phones' || location.pathname == '/laptops' || location.pathname == '/audio' || location.pathname == '/tablets' || location.pathname == '/wearables' ?'bg-[#9538E2] text-white':'bg-base-100'} `}>

@@ -49,3 +49,7 @@ npm i react-toastify
 ```sh
 npm install react-icons --save
 ```
+
+```sh
+npm i react-helmet
+```
