@@ -2,7 +2,7 @@
 import bannerImg from '../../../assets/banner.jpg'
 import Banner from "../../banner/Banner";
 import { Outlet, useLoaderData, useLocation} from "react-router-dom";
-/* import Category from './category/Category'; */
+import Category from './category/Category';
 import { Helmet } from 'react-helmet';
 
 
