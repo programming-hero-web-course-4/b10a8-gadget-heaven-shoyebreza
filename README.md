@@ -53,3 +53,7 @@ npm install react-icons --save
 ```sh
 npm i react-helmet
 ```
+# Add react rating star
+```sh
+npm i react-rating-stars-component
+```
